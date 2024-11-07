@@ -33,6 +33,7 @@ cd HUMANITY
 ---
 
 ### 3. Create the `private_keys.txt` File
+
 Create a `private_keys.txt` file in the root directory of the project. This file should contain one private key per line, like so:
 
 ```python
@@ -44,7 +45,24 @@ private_key_3
 
 ---
 
-### 4. Install Required Dependencies
+### 4. Create Virtual Environment
+
+Building packages in a Python virtual environment can sometimes avoid conflicts
+
+```bash
+python -m venv myenv
+```
+Activating the python virtual environment
+
+```bash
+source myenv/bin/activate
+```
+
+---
+
+
+### 5. Install Required Dependencies
+
 Make sure you have Python installed on your system. Then, install the required dependencies using the `requirements.txt` file:
 
 ```bash
@@ -53,7 +71,7 @@ pip install -r requirements.txt
 
 ---
 
-### 5. Run the Bot
+### 6. Run the Bot
 Once everything is set up, you can run the bot with the following command:
 
 ```bash
