@@ -33,7 +33,7 @@ cd HUMANITY
 ---
 
 ### 3. Create the `private_keys.txt` File
-Create a private_keys.txt file in the root directory of the project. This file should contain one private key per line, like so:
+Create a `private_keys.txt` file in the root directory of the project. This file should contain one private key per line, like so:
 
 ```python
 private_key_1
@@ -45,7 +45,7 @@ private_key_3
 ---
 
 ### 4. Install Required Dependencies
-Make sure you have Python installed on your system. Then, install the required dependencies using the requirements.txt file:
+Make sure you have Python installed on your system. Then, install the required dependencies using the `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
