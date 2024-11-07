@@ -48,12 +48,12 @@ private_key_3
 
 ### 4. Create Virtual Environment
 
-Building packages in a Python virtual environment can sometimes avoid conflicts
+Building packages in a Python virtual environment can sometimes avoid conflicts:
 
 ```bash
 python -m venv myenv
 ```
-Activating the python virtual environment
+Activating the python virtual environment:
 
 ```bash
 source myenv/bin/activate
