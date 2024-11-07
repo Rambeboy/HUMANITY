@@ -1,5 +1,6 @@
 ## HUMANITY PROTOCOL BOT
 
+![images](assets/images.png)
 ---
 
 ## Introduction
