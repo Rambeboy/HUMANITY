@@ -32,7 +32,7 @@ cd HUMANITY
 
 ---
 
-### 3. Create the private_keys.txt File
+### 3. Create the `private_keys.txt` File
 Create a private_keys.txt file in the root directory of the project. This file should contain one private key per line, like so:
 
 ```python
