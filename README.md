@@ -57,7 +57,7 @@ pip install -r requirements.txt
 Once everything is set up, you can run the bot with the following command:
 
 ```bash
-python3 bot.py
+python bot.py
 ```
 
 ---
